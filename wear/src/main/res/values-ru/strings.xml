@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Мое приложение</string>
+    <string name="hello_round">Привет Мир</string>
+    <string name="hello_square">Привет Квадратный Мир!</string>
+
+</resources>
